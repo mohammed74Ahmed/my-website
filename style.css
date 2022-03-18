@@ -189,6 +189,21 @@ section{
     font-size: 1em;
     color: black;
 }
+.project-title{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.more-details{
+    text-decoration: none;
+    color: orangered;
+}
+.more-details:hover{
+    color: darkorange;
+}
 
 .Contact.icon {
     font-size: 4.5em;
